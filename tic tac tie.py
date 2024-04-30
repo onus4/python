@@ -56,3 +56,5 @@ def play_tic_tac_toe():
             break
 
         player = "0" if player == "X" else "X"
+
+play_tic_tac_toe()
